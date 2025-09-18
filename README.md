@@ -1,2 +1,2 @@
 # narender-example-project
-Simple example script
+Simple shell example script
